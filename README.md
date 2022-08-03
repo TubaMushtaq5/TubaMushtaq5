@@ -1,4 +1,5 @@
-![alphatestersanimation2](https://user-images.githubusercontent.com/110319741/182558314-e6b3696d-6909-4802-8a91-2d2344031b5d.gif)
+![alphatestersanimation2](https://user-images.githubusercontent.com/110319741/182559274-4eccede3-71df-4e2b-89b2-46f4ff0b31da.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Tuba Mushtaq</h1>
